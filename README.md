@@ -1,5 +1,5 @@
 📈 Sales Forecasting for ABC Retail Store – Time Series Analysis & Business Insights<br>
-A time series forecasting project for a community-driven retail business to improve sales prediction, inventory management, and strategic planning.
+| A time series forecasting project for a community-driven retail business to improve sales prediction, inventory management, and strategic planning.
 
 🏪 About ABC Store<br>
 ABC Retail Store, located in Plymouth, MI, has proudly served the local communities of Redford, Livonia, and Plymouth for over 30 years. The store offers diverse products, hosts bi-weekly promotional events, and recently added a laundromat to expand its services. With growing online presence and partnerships with delivery services like DoorDash and Grubhub, ABC Store is adapting to modern retail needs.
